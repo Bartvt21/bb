@@ -1,7 +1,5 @@
 
 
-
-
 def standaardprijs(afstandKM):
     'Berekend de standaard prijs bij X aantal KM'
 
